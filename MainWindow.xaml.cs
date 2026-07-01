@@ -65,7 +65,7 @@ namespace MonthlyMileageCropper
 
             using (var source = SKBitmap.Decode(readFilePath))
             {
-                var cropRect = new SKRectI(0, 180, source.Width, source.Height - 1000);
+                var cropRect = new SKRectI(0, 290, source.Width, source.Height - 910);
 
                 using (var destination = new SKBitmap(cropRect.Width, cropRect.Height))
                 {

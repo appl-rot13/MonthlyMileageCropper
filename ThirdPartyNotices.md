@@ -3,15 +3,15 @@
 This software uses third-party libraries or other resources that may be
 distributed under licenses different than this software.
 
-## SkiaSharp 2.88.8
+## SkiaSharp 4.148.0
 - **Source** - https://github.com/mono/SkiaSharp
 - **Packages**
-  - **SkiaSharp 2.88.8** -  
-      https://www.nuget.org/packages/SkiaSharp/2.88.8
-  - **SkiaSharp.NativeAssets.macOS 2.88.8** -  
-      https://www.nuget.org/packages/SkiaSharp.NativeAssets.macOS/2.88.8
-  - **SkiaSharp.NativeAssets.Win32 2.88.8** -  
-      https://www.nuget.org/packages/SkiaSharp.NativeAssets.Win32/2.88.8
+  - **SkiaSharp 4.148.0** -  
+      https://www.nuget.org/packages/SkiaSharp/4.148.0
+  - **SkiaSharp.NativeAssets.macOS 4.148.0** -  
+      https://www.nuget.org/packages/SkiaSharp.NativeAssets.macOS/4.148.0
+  - **SkiaSharp.NativeAssets.Win32 4.148.0** -  
+      https://www.nuget.org/packages/SkiaSharp.NativeAssets.Win32/4.148.0
 
 - **License Notice**
   ```
